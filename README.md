@@ -32,5 +32,8 @@ This bot is a smart, multilingual AI chatbot built using OpenAI and Gradio. It h
 ## ▶️ Running the App
 Just run `app.py` on Hugging Face Spaces. No extra setup required.
 
+## 🚀 The Chatbot is Live here
+👉 [Click here to interact with the chatbot on Hugging Face Spaces] https://huggingface.co/spaces/TGChandu/Hiring_Assistant_Chatbot
+
 ## 📬 Contact
 Created as part of an AI Engineer Internship hiring challenge.
